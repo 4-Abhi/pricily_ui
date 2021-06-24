@@ -1,0 +1,22 @@
+.header_heading {
+  padding: 10px;
+  background: tomato;
+}
+.navbar-brand {
+  color: white;
+}
+.nav-item a {
+  font-size: 1.2rem;
+  color: white;
+}
+.nav-link {
+  color: white !important;
+}
+.profile {
+  color: white !important;
+  background: orangered;
+}
+.logout {
+  color: white !important;
+  background: green;
+}

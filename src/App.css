@@ -1,0 +1,26 @@
+.container {
+  width: 100%;
+  margin: 50px auto;
+  overflow: hidden;
+}
+.submit {
+  justify-content: center;
+  display: flex;
+  font-size: 20px;
+  margin: 30px auto !important;
+  color: white;
+  width: 40%;
+  background: rgb(139, 139, 235);
+}
+
+@media (max-width: 768px) {
+  .list_table {
+    width: 100%;
+    overflow: scroll;
+  }
+  .table {
+    width: 80%;
+    overflow-x: scroll !important;
+    overflow-y: scroll !important;
+  }
+}
